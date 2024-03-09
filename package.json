@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tiling-Tan/demo-animation-resume.git"
+    "url": "git+https://github.com/Azure131/demo-animation-resume-master"
   },
-  "author": "tiling-Tan",
+  "author": "Azure131",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tiling-Tan/demo-animation-resume/issues"
+    "url": "https://github.com/Azure131/demo-animation-resume-master/issues"
   },
-  "homepage": "https://github.com/tiling-Tan/demo-animation-resume#readme",
+  "homepage": "https://github.com/Azure131/demo-animation-resume-master#readme",
   "dependencies": {
     "jquery": "^3.6.0",
     "marked": "^0.7.0",
